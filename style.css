@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+label{
+  font-size: 2rem;
+  font-weight: bold;
+}
+button{
+  font-size: 1.5rem;
+  font-weight: bold;
+  height:2.5rem;
+  margin:.3rem 0;
+}
+input{
+  width: 200px;
+  height:30px;
+  margin:.3rem 0;
+}
+.sketch{
+  padding:2rem;
+}
+.content{
+  display:flex;
+}
